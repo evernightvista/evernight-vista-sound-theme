@@ -1,0 +1,10 @@
+[Sound Theme]
+Name=Fantasy
+Name[zh_CN]=Fantasy 奇幻未来
+Comment=Fantasy Sound Theme for Evernight Vista
+Comment[zh_CN]=Evernight Vista 的 Fantasy 奇幻未来声音主题
+Directories=stereo
+Example=theme-demo
+
+[stereo]
+OutputProfile=stereo
